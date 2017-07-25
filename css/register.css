@@ -1,0 +1,289 @@
+html,body{
+	 	height:100%;
+	 }
+	 *{
+	 	margin:0;
+	 	padding:0;
+	 }
+	 #box1{
+        height:111px;
+        width:100%;
+	 }
+     .box1_1{
+     	height:111px;
+     	width:1204px;
+     	margin:0 auto;
+     	position:relative;
+     }
+     .jg{
+     	padding-top:30px;
+     }
+     .hyzc{
+         font-size:24px;
+         color:#333;
+         margin-left:200px;
+         margin-top:-50px;
+     }
+     .yyzh{
+     	float:right;
+     	margin-bottom:24px;
+     	font-size:16px;
+     	color:#999;
+     }
+     .yyzh a{
+     	text-decoration:none;
+     	color:#333;
+     }
+     .jt{
+      width:12px;
+      height:9px;
+      background:url(../image/xuebitu.png);
+      background-position:-5px -158px;
+    }
+    .yiyin{
+    	width:100%;
+    	height:4px;
+    	background:url(../image/yinying.png) repeat-x;
+        position:absolute;
+        left:0;
+        top:114px;
+    }
+    #box2{
+    	height:736px;
+    	margin-top:96px;
+    }
+    .box2_1{
+    	width:1204px;
+    	height:736px;
+    	margin:0 auto;
+    }
+    .dcwj{
+      width:33px;
+      height:137px;
+      background:url(../image/xuebitu.png);
+      background-position:-334px top;
+      position:fixed;
+      right:0;
+      top:50%;
+    }
+    .dcwj:hover{
+      background-position:-367px top;
+    }
+    .left{
+    	width:400px;
+    	height:623px;
+      margin-left:191px;
+      float:left;
+    }
+    .yhm,.szmm,.qrmm,.sysj,.yzm,.sjyzm{
+       width:400px;
+       height:54px;
+       border:1px solid #ccc;
+       margin-bottom:36px;
+       position:relative;
+
+    }
+    label{
+       font-size:14px;
+       color:#666;
+       display:block;
+       width:110px;
+       height:52px;
+       text-align:center;
+       line-height:52px;
+       padding-left:10px;
+       float:left;
+    }
+    .sysj{
+      position:relative;
+    }
+    .sysj input{
+      position:absolute;
+      top:0;
+      left:120px;
+    }
+    .yz{
+      width:125px;
+      height:52px;
+      position:relative;
+      border-right:1px solid #ccc;
+    }
+    .yz .jt{
+      display:inline-block;
+      position:absolute;
+      left:100px;
+      top:25px;
+    }
+   input{
+        width:126px;
+        height:46px;
+        font-size:14px;
+        color:#ccc;
+        outline:none;
+        border:none;
+        line-height:46px;
+        margin-top:4px;
+        margin-left:15px;
+   }
+   .szmm input{
+      width:168px;
+   }
+   .dxk{
+       display:block;
+       font-size:12px;
+       color:#333;
+       width:400px;
+       height:21px;
+       margin-bottom:36px;
+       position:relative;
+   }
+   .dxk input{
+        width:18px;
+        height:20px;
+        margin-left:0;
+   }
+   .dxk1{
+      position:absolute;
+      top:6px;
+   }
+   .dxk a{
+      text-decoration:none;
+      color:#38f;
+      font-size:12px;
+      position:absolute;
+      top:6px;
+      left:78px;
+   }
+    .right{
+        width:391px;
+        height:683px;
+        float:right;
+    }
+    .l1,.l2{
+        width:160px;
+        height:60px;
+    }
+    .l1{
+      border-bottom:1px solid #ccc;
+    }
+    .qyzc {
+      float:left;
+    }
+   .int{
+      float:left;
+   }
+   .l2{
+    margin-top:35px;
+    position:relative;
+   }
+   .l1{
+    position:relative;
+   }
+   .l1 a,.l2 a{
+     font-size:14px;
+     color:#666;
+     text-decoration:none;
+     margin-left:22px;
+   }
+   .l1 a{
+      position:absolute;
+      top:4px;
+   }
+   .l2 a{
+      position:absolute;
+      top:-4px;
+   }
+  .l1:hover a,.l2:hover a{
+    color:black;
+    font-weight:bold;
+  }
+   .ljzc{
+        width:400px;
+        height:52px;
+    }
+    .ljzc p{
+        font-size:16px;
+        color:#fff;
+        background:#e22;
+        text-align:center;
+        line-height:53px;
+    }
+    #box3{
+    	height:100%;
+    	width:100%;
+    }
+    .box3_1{
+    	width:1204px;
+    	height:100%;
+    	margin:0 auto;
+    	border-top:1px solid #e6e6e6;
+        padding-top:34px;
+        text-align:center;
+    }
+    .box3_1 a{
+        text-decoration:none;
+        color:#999;
+        font-size:14px;
+    }
+   .box3_1 p{
+        padding-top:20px;
+        text-align:center;
+        font-size:12px;
+        color:#999;
+    }
+      .qyzc{
+      width:32px;
+      height:32px;
+      background:url(../image/xuebitu.png);
+      background-position:left -50px;
+    }
+     .int{
+      width:32px;
+      height:32px;
+      background:url(../image/xuebitu.png);
+      background-position:-49px -50px;
+    }
+    .yxyz a{
+      text-decoration:none;
+      color:#38f;
+      font-size:12px;
+      position:absolute;
+      right:0;
+      top:-26px;
+    }
+    .yxyz{
+      position:relative;
+    }
+    .yzm1{
+       position:relative;
+       width:120px;
+       height:36px;
+    }
+    .yzm1 img{
+      height:100%;
+      width:100%;
+      position:absolute;
+      top:-40px;
+      right:-280px;
+    }
+    .hqyzm{
+      width:112px;
+      height:50px;
+      background:#ccc;
+      position:absolute;
+      top:2px;
+      right:2px;
+      text-align:center;
+      line-height:52px;
+    }
+    .hqyzm a{
+        font-size:14px;
+        color:black;
+        text-decoration:none;
+    }
+    .center{
+      width:1px;
+      height:605px;
+      background:#ccc;
+      margin-left:695px;
+    }
